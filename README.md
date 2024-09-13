@@ -1,2 +1,2 @@
-# B
+# CMPG121
 school assignments
